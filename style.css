@@ -1,0 +1,27 @@
+header {
+    height: 100px;
+    width: 100%;
+    border-bottom: 10px solid violet;
+    background-color: #999900;
+  }
+  
+  section {
+    width: 70%;
+    margin: 20px auto;
+    border-bottom: 5px solid white;
+    background-color: #999900;
+  }
+
+  .example-box {
+    /* Shortcut method sets top and bottom padding to 20px and left and right to 40px */
+    padding: 20px 40px;
+  }
+  
+  .image-padding {
+    padding:left
+  }
+  
+  .image-border {
+    border: 10px solid darkblue;
+  }
+  
